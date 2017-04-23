@@ -1,0 +1,4 @@
+fsa
+abaaaaaaaabababbbbbcaab
+babcaccccccacacd
+bcabcabcabcabcabcabcaaaacd
