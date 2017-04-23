@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1464036445 source:c:\temp\delete\prog\projectantivirus\main.cpp
+	<graphics.h>
+	<bits/stdc++.h>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<windows.h>
+
+1266061814 g:\codeblocks-simplecpp\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
